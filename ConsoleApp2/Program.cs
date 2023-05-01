@@ -1,7 +1,8 @@
 ﻿using System;
 
-#region TASK_1
+//#region TASK_1
 //#region TASK_2
+//#region TASK_3
 
 namespace ConsoleApp2
 {
@@ -53,8 +54,17 @@ namespace ConsoleApp2
 
             //Console.WriteLine(System.Math.Round(a * b / 100)); 
             #endregion
-
-
+            #region TASk_3
+            //Console.WriteLine("Введите число");
+            //string num1 = Console.ReadLine();
+            //Console.WriteLine("Введите число");
+            //string num2 = Console.ReadLine();
+            //Console.WriteLine("Введите число");
+            //string num3 = Console.ReadLine();
+            //Console.WriteLine("Введите число");
+            //string num4 = Console.ReadLine();
+            //Console.WriteLine("Получилось" + " " + num1 + num2 + num3 + num4); 
+            #endregion
         }
     }
 }
